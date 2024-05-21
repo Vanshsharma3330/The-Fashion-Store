@@ -1,0 +1,32 @@
+.navbar-container{
+    width: 100%;
+    background-color: black;
+    color: #ffffff;
+    text-transform: uppercase;
+    height: 80px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    padding: 0px 160px;
+}
+
+.shopping{
+    background-color: #db3838;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    gap: 15px;
+}
+
+.navbar-container a{
+    text-decoration: none;
+    font-family: Gotham2;
+    color: #ffffff;
+}

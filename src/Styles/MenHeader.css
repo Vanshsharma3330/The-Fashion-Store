@@ -1,0 +1,25 @@
+.main-men-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 189px;
+    margin-top: 100px;
+}
+
+.main-men-header h1{
+    border-bottom: 4px solid  #444444;
+    padding-bottom: 30px;
+    color: #444444;
+    width: 32.5%;
+    font-size: 25px;
+    margin-bottom: 45px;
+}
+
+.arrows{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.arrows img{
+    margin: 0 5px;
+}
