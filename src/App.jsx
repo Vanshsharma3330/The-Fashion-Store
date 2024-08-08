@@ -24,3 +24,5 @@
 	}
 
 	export default App;
+
+	// db.student.updateOne() = [{roll no : "1"}, {$Set:{name : "vansh"}}]; 
